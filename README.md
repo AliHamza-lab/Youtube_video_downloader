@@ -16,4 +16,4 @@ This repository contains a Python script that downloads all videos from a specif
   ```bash
   pip install yt-dlp
 ## License
- -**You can modify the repository link and any other details as needed!
+- **You can modify the repository link and any other details as needed!
